@@ -1,0 +1,20 @@
+[26-Jan-2016 22:11:12 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[26-Jan-2016 23:06:36 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[27-Jan-2016 21:19:06 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[27-Jan-2016 21:19:23 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[27-Jan-2016 21:48:50 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[27-Jan-2016 21:49:12 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[27-Jan-2016 21:50:44 Pacific/Honolulu] PHP Fatal error:  Call to undefined method User::get_active() in /home1/nalani/public_html/makikimanor.com/inc/authentication.php on line 51
+[27-Jan-2016 21:51:54 Pacific/Honolulu] PHP Fatal error:  Call to undefined function password_verify() in /home1/nalani/public_html/makikimanor.com/classes/class.user.php on line 74
+[27-Jan-2016 21:52:05 Pacific/Honolulu] PHP Fatal error:  Call to undefined function password_verify() in /home1/nalani/public_html/makikimanor.com/classes/class.user.php on line 74
+[27-Jan-2016 21:53:13 Pacific/Honolulu] PHP Fatal error:  Call to undefined function password_verify() in /home1/nalani/public_html/makikimanor.com/classes/class.user.php on line 74
+[10-Apr-2016 17:43:17 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[10-Apr-2016 17:47:33 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[10-Apr-2016 17:56:31 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[10-Apr-2016 18:24:43 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[10-Apr-2016 18:25:01 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[10-Apr-2016 18:25:30 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[04-Aug-2016 18:23:41 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[04-Aug-2016 18:28:34 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[04-Aug-2016 18:38:37 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84
+[04-Aug-2016 18:57:56 Pacific/Honolulu] PHP Warning:  Invalid argument supplied for foreach() in /home1/nalani/public_html/makikimanor.com/contact.php on line 84

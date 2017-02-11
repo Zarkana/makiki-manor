@@ -1,0 +1,7 @@
+/* To represent actual site */
+body#tinymce{
+	color: #464646;
+	
+  	line-height: 1.35em;
+	font-size: 1em;
+}

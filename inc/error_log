@@ -1,0 +1,7 @@
+[26-Jan-2016 01:30:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home1/nalani/public_html/makikimanor.com/inc/config.php:17
+Stack trace:
+#0 /home1/nalani/public_html/makikimanor.com/inc/config.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home1/nalani/public_html/makikimanor.com/inc/logout.php(3): require_once('/home1/nalani/p...')
+#2 {main}
+  thrown in /home1/nalani/public_html/makikimanor.com/inc/config.php on line 17
+[31-Jan-2016 16:15:40 America/Chicago] PHP Fatal error:  Call to undefined function make_panel() in /home1/nalani/public_html/makikimanor.com/inc/admin-panels.php on line 35
